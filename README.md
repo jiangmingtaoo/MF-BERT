@@ -30,8 +30,8 @@ More info refers to: [Tencent AI Lab Word Embedding](https://ai.tencent.com/aila
 
 # Run
 
-* 1.Convert .char.bmes file to `.json file`, run the `to_json.py` file.
+* 1.Convert `.char.bmes` file to `.json` file, run the `to_json.py` file.
 
-* 2.Convert .char.bmes file to `mid_data/.json file`, run the `process.py` file in each dataset folder.
+* 2.Convert `.char.bmes` file to `mid_data/.json` file, run the `process.py` file in each dataset folder.
 
 * 3.run the shell, `sh run_demo.sh`
