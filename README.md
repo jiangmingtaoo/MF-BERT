@@ -21,7 +21,7 @@ Code for the MF-BERT model
 
 * Chinese BERT: https://huggingface.co/bert-base-chinese/tree/main <!--https://cdn.huggingface.co/bert-base-chinese-pytorch_model.bin-->
 
-* Word Embedding: https://ai.tencent.com/ailab/nlp/en/data/tencent-ailab-embedding-zh-d200-v0.2.0.tar.gz
+* Word Embedding: https://ai.tencent.com/ailab/nlp/en/data/tencent-ailab-embedding-zh-d200-v0.2.0.tar.gz,
 More info refers to: [Tencent AI Lab Word Embedding](https://ai.tencent.com/ailab/nlp/en/embedding.html)
 
 * tencent_vocab.txt, the vocab of pre-trained word embedding table, downlaod from [here](https://drive.google.com/file/d/1UmtbCSPVrXBX_y4KcovCknJFu9bXXp12/view?usp=sharing).
